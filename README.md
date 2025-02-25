@@ -13,44 +13,16 @@
   <p align="center">
     A multi-instance, cross-platform Discord/Spacebar API-compatible chat client, written in Rust using leptos and optionally Tauri.
     <br />
-    <a href="https://github.com/polyphony-chat/polyphony-web"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/polyphony-chat/polyphony-web/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/polyphony-chat/polyphony-web/issues">Request Feature</a>
-    ·
     <a href="https://discord.gg/8tKSC8wzDq">Join Discord</a>
   </p>
 </div>
 
 </div>
 
-![Mockup of the 'Polyphony' client, set in dark purple hues. The bottom navigation bar displays connection to 2 instances, user '@Flori#7676' status on 'spacebar.chat', green 'online' status symbol, a 'coding' status, and 'Visual Studio code' playing. A left-side guild navigator hosts gray circles for guild previews, with one selected guild marked by a purple dot. A card-like guild preview on the right showcases the chosen 'Polyphony' guild, marked 'public' and 'verified', on a purple-blue gradient background. Beneath, a channel preview lists two categories, each with three channels coded by icons: 'welcome' (hashtag), 'announcements' (megaphone), and additional 'welcome' channels (hashtags). A centered search bar features the text 'search for anything' and an icon with three dots. At the bottom, a text input box labeled 'say something' is flanked by a paperclip and three-dots icons.](https://github.com/polyphony-chat/design/blob/main/ui/client-mockup-draft-neo.png?raw=true)
-*early mockup of the client, not indicative of the current state of the code.* 
+## Notice
 
-## Setting up a dev environment
-
-This repository uses Tauri 2.0.0-alpha for mobile support in the future. Tauri-generated mobile project
-files can be found under `crates/polyphony-tauri/gen/android` and `/apple` for Android and iOS 
-respectively.
-
-Add wasm as a compilation target
-
-```bash
-rustup target add wasm32-unknown-unknown
-```
-
-Install `tauri-cli` and `trunk`
-```bash
-cargo install tauri-cli trunk --locked
-```
-
-To start the web-based application, change into the `crates/polyphony-wasm` directory and run `trunk serve`.
-
-To start the Tauri powered Desktop-App instead, change into the `crates/polyphony-tauri` directory and run `cargo tauri dev`. 
-
-> Note that the Tauri Dev Server will try to run and listen for the `trunk serve` Dev server. If it fails to do so (perhaps because Port `8080` is already occupied), it will not be able to start the Tauri App.
+With our current [roadmap](https://roadmap.polyphony.chat), I ([@bitfl0wer](https://github.com/bitfl0wer)) expect to get started with client development in October or November 25'. This repository is a placeholder until then. Feel free to check out [our project main page and the other things we are actively working on in the meantime!](https://github.com/polyphony-chat)
 
 [Rust]: https://img.shields.io/badge/Rust-orange?style=plastic&logo=rust
 [Rust-url]: https://www.rust-lang.org/
