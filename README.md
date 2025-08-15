@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> 📦️ We moved! Come check out our new place over on [Codeberg](https://codeberg.org/polyphony)!
+>
+> We have moved to [Codeberg](https://codeberg.org/polyphony) as our primary Git Forge, and the project is *alive and well* over there! :purple_heart: The GitHub repositories will be archived and potentially deleted in the future.
+
 <div align="center">
 
 [![Discord]][Discord-invite]
