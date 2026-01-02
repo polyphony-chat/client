@@ -3,6 +3,10 @@
 >
 > We have moved to [Codeberg](https://codeberg.org/polyphony) as our primary Git Forge, and the project is *alive and well* over there! :purple_heart: The GitHub repositories will be archived and potentially deleted in the future.
 
+
+<details>
+  <summary>Old README (outdated!)</summary>
+
 <div align="center">
 
 [![Discord]][Discord-invite]
@@ -16,6 +20,7 @@
 <h3 align="center">Polyphony</h3>
 
   <p align="center">
+    <h1>THIS REPO IS DEFUNCT AND A PLACEHOLDER WITH NO FUNCTIONALITY</h1>
     A multi-instance, cross-platform Discord/Spacebar API-compatible chat client, written in Rust using leptos and optionally Tauri.
     <br />
     <br />
@@ -25,23 +30,4 @@
 
 </div>
 
-## Notice
-
-With our current [roadmap](https://roadmap.polyphony.chat), I ([@bitfl0wer](https://github.com/bitfl0wer)) expect to get started with client development in October or November 25'. This repository is a placeholder until then. Feel free to check out [our project main page and the other things we are actively working on in the meantime!](https://github.com/polyphony-chat)
-
-[Rust]: https://img.shields.io/badge/Rust-orange?style=plastic&logo=rust
-[Rust-url]: https://www.rust-lang.org/
-[build-shield]: https://img.shields.io/github/actions/workflow/status/polyphony-chat/polyphony-web/rust.yml?style=flat
-[build-url]: https://github.com/polyphony-chat/polyphony-web/blob/main/.github/workflows/rust.yml
-[contributors-shield]: https://img.shields.io/github/contributors/polyphony-chat/polyphony-web.svg?style=flat
-[contributors-url]: https://github.com/polyphony-chat/polyphony-web/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/polyphony-chat/polyphony-web.svg?style=flat
-[forks-url]: https://github.com/polyphony-chat/polyphony-web/network/members
-[stars-shield]: https://img.shields.io/github/stars/polyphony-chat/polyphony-web.svg?style=flat
-[stars-url]: https://github.com/polyphony-chat/polyphony-web/stargazers
-[issues-shield]: https://img.shields.io/github/issues/polyphony-chat/polyphony-web.svg?style=flat
-[issues-url]: https://github.com/polyphony-chat/polyphony-web/issues
-[license-shield]: https://img.shields.io/github/license/polyphony-chat/polyphony-web.svg?style=f;at
-[license-url]: https://github.com/polyphony-chat/polyphony-web/blob/master/LICENSE
-[Discord]: https://dcbadge.vercel.app/api/server/m3FpcapGDD?style=flat
-[Discord-invite]: https://discord.com/invite/m3FpcapGDD
+</details>
